@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Choir Portal",
   description: "A comprehensive platform for choir management",
-    generator: 'v0.dev'
+    generator: 'davydashboard'
 }
 
 export default function RootLayout({
